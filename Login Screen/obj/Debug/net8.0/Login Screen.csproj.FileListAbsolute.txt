@@ -1,0 +1,4 @@
+C:\Users\Sun\source\repos\dcit318-assignment4-10940056\Login Screen\obj\Debug\net8.0\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sun\source\repos\dcit318-assignment4-10940056\Login Screen\obj\Debug\net8.0\Login Screen.AssemblyInfoInputs.cache
+C:\Users\Sun\source\repos\dcit318-assignment4-10940056\Login Screen\obj\Debug\net8.0\Login Screen.AssemblyInfo.cs
+C:\Users\Sun\source\repos\dcit318-assignment4-10940056\Login Screen\obj\Debug\net8.0\Login Screen.csproj.CoreCompileInputs.cache
